@@ -1,6 +1,6 @@
 ## a bit about me
 
-I am jia, and finished my PhD at teh beginning of 2022. I am very keen of applied ML research. My PhD works focused on Federated Learning and privacy of ML. In general, I have good understanding of Deep Learning, probabilistic neural network, optimization method, etc.
+I am jia, and finished my PhD at the beginning of 2022. I am very keen of applied ML research. My PhD works focused on Federated Learning and privacy of ML. In general, I have solid understanding of ML, Deep Learning, probabilistic neural network, optimization methods, etc.
 
 Now, I am working in a R&D department in a company, where I can continually 
 
