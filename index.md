@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## a bit about me
 
-You can use the [editor on GitHub](https://github.com/jiaqian/MyWeb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am jia, and finished my PhD at teh beginning of 2022. I am very keen of applied ML research. My PhD works focused on Federated Learning and privacy of ML. In general, I have good understanding of Deep Learning, probabilistic neural network, optimization method, etc.
+
+Now, I am working in a R&D department in a company, where I can continually 
+
+
+You can find my research works [here](https://scholar.google.dk/citations?user=YMlQgZIAAAAJ&hl=en).
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
